@@ -4,7 +4,7 @@ import discord
 TOKEN = 'your_bot_token_here'
 
 # Message to send
-message = "Hey everyone! This is a mass DM from your friendly neighborhood hacker. Enjoy!"
+message = "your message here"
 
 # Define intents
 intents = discord.Intents.default()

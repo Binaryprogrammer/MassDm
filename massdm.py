@@ -8,7 +8,7 @@ message = "your message here"
 
 
 intents = discord.Intents.default()
-intents.members = True  # Enable the members intent
+intents.members = True  
 
 
 client = discord.Client(intents=intents)
